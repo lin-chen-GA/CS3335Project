@@ -1,0 +1,5 @@
+/home/lin_chen/.local/bin/Hello
+/home/lin_chen/.local/include/hello.h
+/home/lin_chen/.local/include/util.h
+/home/lin_chen/.local/include/test_2.h
+/home/lin_chen/.local/include/test_1.h
